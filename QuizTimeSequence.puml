@@ -1,0 +1,19 @@
+@startuml
+
+class Quiz {
+Object[] elementData
+size()
+}
+
+class Question {
+Object[] elementData
+size()
+}
+
+class QuizRunner {
+Object[] elementData
+size()
+}
+
+@enduml
+
