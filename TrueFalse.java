@@ -6,8 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Inspired by LaunchCode
- * Edited by Edward Dupre on 3/20/17.
+ *
  */
 public class TrueFalse extends Question {
 
